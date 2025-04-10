@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1743187888.38146 "main.aux" "main.bbl" "main" 1743187891.70583 0
-  "./main.bib" 1743116635 1752 24604413c73339199f1280c3503d9c16 ""
-  "./mainNotes.bib" 1743187890 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
+["bibtex main"] 1743234822.83367 "main.aux" "main.bbl" "main" 1744143060.61863 0
+  "./main.bib" 1743234710 3172 5f283ad412a784fca6430922dc6e429a ""
+  "./mainNotes.bib" 1744143057 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
   "c:/texlive/2025/texmf-dist/bibtex/bst/revtex/apsrev4-2.bst" 1743120032 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
-  "main.aux" 1743187890 2036 2bbe4317e4261e3af0f8b8d83f77532b "pdflatex"
+  "main.aux" 1744143057 3110 48c44f2d8dd481615a3df278f660022f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1743187888.93425 "c:/Users/deans/OneDrive - Cornell University/Spring 2025/PHYS 4410/Speed_of_light/Report/main.tex" "main.pdf" "main" 1743187891.70725 0
+["pdflatex"] 1744143055.07159 "c:/Users/deans/OneDrive - Cornell University/Spring 2025/PHYS 4410/Speed_of_light/Report/main.tex" "main.pdf" "main" 1744143060.62095 0
   "Diagram.jpg" 1743116622 115545 b9f1a16611ce773495a83fa5ff97d595 ""
   "Residuals.png" 1743116638 95569 5450d0b70c33eab8d3258eb9c9869b89 ""
   "Signals2.png" 1743116644 59309 52c33cc6e8d8b51cdce119bf0c351d39 ""
-  "c:/Users/deans/OneDrive - Cornell University/Spring 2025/PHYS 4410/Speed_of_light/Report/main.tex" 1743187884 7180 6f202652c0afc60fd57e7d9e3d231fbb ""
+  "c:/Users/deans/OneDrive - Cornell University/Spring 2025/PHYS 4410/Speed_of_light/Report/main.tex" 1744143053 14885 0cdba1194a7fc8fca9c7eae51fb21036 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1743118529 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1743117525 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1743117525 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -48,12 +48,19 @@
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmti9.tfm" 1743117917 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1743117525 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1743117525 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1743117525 30251 6afa5cb1d0204815a708a080681d4674 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1743117525 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb" 1743117525 37912 07513ec114ac737ab54cea0152f4424b ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1743117525 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1743117525 36281 c355509802a035cadc5f15869451dcee ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb" 1743117525 36094 798f80770b3b148ceedd006d487db67c ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1743117525 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1743117525 31809 8670ca339bf94e56da1fc21c80635e2a ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1743117525 32734 69e00a6b65cedb993666e42eedb3d48f ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1743117525 32762 7fee39e011c23b3589931effd97b9702 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1743117525 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1743117525 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1743117525 32716 08e384dc442464e7285e891af9f45947 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb" 1743117525 32442 c975af247b6702f7ca0c299af3616b80 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb" 1743117525 36310 f5ddc6715cc60deb16d9db5ded6a9391 ""
   "c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1743119493 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -90,9 +97,9 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1743121075 5447764 14a95f5746dd399e93bc9603f6f6f4c6 ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1743121242 1979746 6ee5963f14001986594a2150ff367b2d ""
   "c:/texlive/2025/texmf.cnf" 1743121043 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1743187890 2036 2bbe4317e4261e3af0f8b8d83f77532b "pdflatex"
-  "main.bbl" 1743187888 2050 d2021969a7e876047bca30877ddcb667 "bibtex main"
-  "main.tex" 1743187884 7180 6f202652c0afc60fd57e7d9e3d231fbb ""
+  "main.aux" 1744143057 3110 48c44f2d8dd481615a3df278f660022f "pdflatex"
+  "main.bbl" 1743234823 8071 1ebbb20a0d8d0d5db187d1d165eb1e6b "bibtex main"
+  "main.tex" 1744143053 14885 0cdba1194a7fc8fca9c7eae51fb21036 ""
   (generated)
   "main.aux"
   "main.log"

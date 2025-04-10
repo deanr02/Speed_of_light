@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.27)  28 MAR 2025 14:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.27)  8 APR 2025 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -274,63 +274,68 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \openout3 = `mainNotes.bib'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <Diagram.jpg, id=1, 575.65062pt x 576.65437pt>
 File: Diagram.jpg Graphic file (type jpg)
 <use Diagram.jpg>
-Package pdftex.def Info: Diagram.jpg  used on input line 77.
+Package pdftex.def Info: Diagram.jpg  used on input line 79.
 (pdftex.def)             Requested size: 184.5pt x 184.82353pt.
  [1{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Diagram.jpg>]
-<Signals2.png, id=15, 556.32843pt x 451.6875pt>
+<Signals2.png, id=17, 556.32843pt x 451.6875pt>
 File: Signals2.png Graphic file (type png)
 <use Signals2.png>
-Package pdftex.def Info: Signals2.png  used on input line 91.
+Package pdftex.def Info: Signals2.png  used on input line 93.
 (pdftex.def)             Requested size: 221.3985pt x 179.75513pt.
-<Residuals.png, id=17, 576.65437pt x 451.6875pt>
+
+Overfull \hbox (24.62161pt too wide) detected at line 104
+[]\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t; []\OT1/cmr/m/n/10 ) = []
+ []
+
+
+Overfull \hbox (28.68768pt too wide) detected at line 113
+[]\OML/cmm/m/it/10 ^^[[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t; []\OT1/cmr/m/n/10 ) = []
+ []
+
+<Residuals.png, id=19, 576.65437pt x 451.6875pt>
 File: Residuals.png Graphic file (type png)
 <use Residuals.png>
-Package pdftex.def Info: Residuals.png  used on input line 99.
+Package pdftex.def Info: Residuals.png  used on input line 131.
 (pdftex.def)             Requested size: 221.3985pt x 173.4212pt.
- (./main.bbl
+[2 <./Signals2.png>] (./main.bbl
+Underfull \hbox (badness 8000) in paragraph at lines 70--71
+ []\OT1/cmr/m/n/9 R. S. Tur-ley, Fit-ting pa-ram-e-ter un-cer-tain-ties in
+ []
 
-LaTeX Warning: Reference `LastBibItem' on page 2 undefined on input line 10.
-
-
-Package natbib Warning: Empty `thebibliography' environment on input line 53.
-
-) [2 <./Signals2.png> <./Residuals.png>] (./main.aux)
+) [3 <./Residuals.png>] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4886 strings out of 475128
- 68106 string characters out of 5765515
- 473227 words of memory out of 5000000
- 27841 multiletter control sequences out of 15000+600000
+ 4920 strings out of 475128
+ 68694 string characters out of 5765515
+ 486614 words of memory out of 5000000
+ 27875 multiletter control sequences out of 15000+600000
  569191 words of font info for 74 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 71i,6n,79p,1235b,322s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on main.pdf (2 pages, 352342 bytes).
+ 71i,10n,79p,2817b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on main.pdf (3 pages, 432263 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 105 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
